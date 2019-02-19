@@ -1,2 +1,1 @@
-# Javascript
-all JS related practice.
+javascript practice, outdated syntax.
